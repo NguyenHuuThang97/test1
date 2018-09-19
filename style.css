@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+}
+.login{
+    height: 770px;
+    background-size: cover;
+    background-image: url("./img/dangnhap.jpg");
+    
+}
+.login .login1{
+    width: 555px;
+    height: 350px;
+    background-color: #fdfbfb;
+    margin:auto;
+	position:absolute;
+    top:0; left:0; right:0; bottom:0;
+    opacity: 0.6;
+    border-radius: 10px;
+}
+.login1 p{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(156, 6, 6);
+    font-weight: 400;
+}
+.bt .tk{
+    position: absolute;
+    left: 60px;
+    margin: 0;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+.ip{ 
+    position: absolute;
+    left: 180px;
+    top: 27%;
+    height: 22px;
+    width: 300px;
+    background: #ffffff;
+}
+.login1 .bt .mk{
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 11%;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+.ip1{ 
+    position: absolute;
+    left: 180px;
+    top: 40%;
+    height: 22px;
+    width: 300px;
+    background: #ffffff;
+}
+.ip2{ 
+    position: absolute;
+    left: 166px;
+    top: 52%;
+    height: 20px;
+    width: 40px;
+    background: #ffffff;
+}
+.bt .ghinho{
+    margin: 0;
+    position: absolute;
+    left: 38%;
+    top: 52%;
+    font-size: 20px;
+    text-transform: lowercase;
+}
+.bt .dangnhap{
+    position: absolute;
+    top: 63%;
+    background:rgb(156, 6, 6);
+    border: 0;
+    color: white;
+    left: 38%;
+    border-radius: 3px;
+    height: 30px;
+    width: 160px
+}
+.dangnhap:hover{
+    cursor: pointer;
+    background: red;
+}
+.login hr{
+    margin: 0;
+    position: relative;
+    top: 183px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.dangky{
+    margin: 0;
+    position: absolute;
+    left: 25%;
+    top: 80%;
+}
+.dangky p{
+    font-size: 20px;
+    text-transform: lowercase;
+}
+.dangky p a{
+    text-decoration: none;
+    color: rgb(156, 6, 6);
+    text-transform: capitalize;
+}
